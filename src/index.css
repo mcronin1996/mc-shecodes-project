@@ -5,10 +5,6 @@ body {
 a {
   color: #63c7b2;
 }
-header {
-  border-bottom: 1px solid #f9f7fe;
-  padding: 0 0 30px 0;
-}
 
 .weather-app {
   background: white;
@@ -34,4 +30,20 @@ header {
   margin-left: 5px;
   border-radius: 6px;
   color: white;
+}
+.main-temp {
+  text-align: center;
+  font-size: 38px;
+  line-height: 48px;
+}
+.icon {
+  text-align: center;
+  font-size: 120px;
+  line-height: 5px;
+}
+.left {
+  padding: 0px 122px 0px 0px;
+}
+.details {
+  padding: 20px 0px 0px 0px;
 }
