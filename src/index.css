@@ -46,12 +46,14 @@ footer {
 }
 .icon {
   text-align: center;
-  font-size: 120px;
-  line-height: 5px;
 }
 .left {
-  padding: 0px 122px 0px 0px;
+  padding: 0px 100px 0px 0px;
 }
 .details {
   padding: 20px 0px 0px 0px;
+}
+.weather-app-icon {
+  width: 88px;
+  height: 88px;
 }
