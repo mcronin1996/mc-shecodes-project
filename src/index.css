@@ -5,6 +5,14 @@ body {
 a {
   color: #63c7b2;
 }
+footer {
+  border-top: 1px solid #ccdbdc;
+  padding: 30px 0 0 0;
+  margin-top: 40px;
+  text-align: center;
+  font-size: 14px;
+  color: #ccdbdc;
+}
 
 .weather-app {
   background: white;
