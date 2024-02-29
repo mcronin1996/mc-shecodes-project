@@ -65,8 +65,8 @@ footer {
 .weather-forecast-day {
   border-right: 1px solid #ccdbdc;
   border-left: 1px solid #ccdbdc;
-  padding-left: 25px;
-  padding-right: 28px;
+  padding-left: 16px;
+  padding-right: 15px;
 }
 
 .weather-forecast-date {
